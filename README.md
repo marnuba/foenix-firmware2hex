@@ -1,6 +1,6 @@
 # foenix-firmware2hex
 
-This is a small tool to convert firmware relases for the Foenix F256k home computer into hex files suitable for FoenixIDE.
+This is a small tool to convert firmware releases for the Foenix F256k home computer into hex files suitable for FoenixIDE.
 
 If you don't know what any of this means, you probably won't need this tool.
 
